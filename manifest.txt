@@ -1,0 +1,3 @@
+Main-Class: tools.Check
+Class-Path: ./lib/ojdbc6.jar
+
